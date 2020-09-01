@@ -1,3 +1,3 @@
 # Useful_Code
 
-Code from the lab
+Code from the Goswami Lab
